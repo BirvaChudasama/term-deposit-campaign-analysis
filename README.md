@@ -19,7 +19,7 @@ This project presents an executive-level Power BI dashboard analyzing the perfor
 ## Dashboard Structure
 The Power BI report consists of **two pages** designed for executive consumption:
 
-### 1️⃣ Overview
+### 1️) Overview
 - Campaign Success Rate (KPI)
 - Total Customers & Successful Subscriptions
 - Average Balance of Subscribed Customers
@@ -28,7 +28,7 @@ The Power BI report consists of **two pages** designed for executive consumption
   - Job Type
   - Marital Status
 
-### 2️⃣ Targeting Insights
+### 2️) Targeting Insights
 - Impact of Previous Campaign Outcome on Conversion
 - Conversion Rate vs. Number of Call Attempts
 - Priority Customer Segments Table with conditional formatting
